@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project-Bookings", "Project-Bookings\Project-Bookings.csproj", "{E147459C-547B-4F52-B619-47A34D2ED6D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project_Bookings", "Project-Bookings\Project_Bookings.csproj", "{E147459C-547B-4F52-B619-47A34D2ED6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
