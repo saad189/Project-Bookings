@@ -10,7 +10,8 @@ namespace Project_Bookings.Models
     {
         public string FirstName, LastName, FullName;
         [Key]
-        public string CNIC { get; set;} //Add Tag for Validation.
-
+        public string CNIC { get; set; } //Add Tag for Validation.
+        public double Credit = 0, Debit = 0;
+        ICollection<Booking> _Bookings;
     }
 }
